@@ -26,7 +26,7 @@ This program is designed to recognize text from an image and search for it on th
 9. In the file search.py replace in 7, 23, 39, 55, 71 lines of the path with chromedriver
 10. DONE!!! To run, we write the command "python main.py " in the cmd (instructions for use next).
 
-#Instructions for use:
+# Instructions for use:
 1. To turn on/off the parser, you need to register "ep"/"dp" (by default, the parser is enabled).
 2. To select a photo on which to recognize the text, you need to register the command "file= image.jpeg" (image.jpeg can be replaced with the name of your picture).
 3. In the window that opens, select the text that needs to be recognized. (Left mouse button - selection, right mouse button - deselection). Closing the window. 
