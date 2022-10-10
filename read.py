@@ -5,7 +5,6 @@ import cv2
 import search
 
 def name(file, useParser=True):
-    pt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  #your reposetory
 
     img = cv2.imread(file)
     img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
